@@ -46,7 +46,7 @@ Around this point, I came to the realization that my task list looked like this:
 - [x] Register TLD (robexley.com)
 - [x] Build a self-hosted wordpress instance more cheaply than available managed hosting.
 - [x] Learn about Wordpress
-- [x] Develop my knowledge and experience of AWS and some of the services available
+- [x] Extend my knowledge and experience of AWS and the services available
 - [x] Publish site and make available externally
 - [ ] Write content
 
