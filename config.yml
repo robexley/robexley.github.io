@@ -1,4 +1,4 @@
-baseURL: "https://robexley.com"
+baseURL: "https://robexley.github.io"
 title: Rob Exley
 paginate: 5
 theme: PaperMod
@@ -114,10 +114,10 @@ outputs:
         - JSON # is necessary
 
 deployment:
-    targets:
-        - name: "robexley.com"
-          url: "s3://robexley.com?region=eu-west-2"
-          cloudFrontDistributionID: "E26JK244MS22FR"
+    #targets:
+    #    - name: "robexley.com"
+    #      url: "s3://robexley.com?region=eu-west-2"
+    #      cloudFrontDistributionID: "E26JK244MS22FR"
     matchers:
         # Cache static assets for 20 years.
         - pattern: "^.+\\.(js|css|png|jpg|gif|svg|ttf)$"
