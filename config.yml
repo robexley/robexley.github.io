@@ -1,4 +1,4 @@
-baseURL: "https://robexley.github.io"
+baseURL: "https://robexley.github.io/"
 title: Rob Exley
 paginate: 5
 theme: PaperMod
