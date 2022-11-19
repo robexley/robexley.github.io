@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://robexley.github.io/sitemap.xml

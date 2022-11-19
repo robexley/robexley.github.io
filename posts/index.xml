@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Rob Exley</title>
+    <link>https://robexley.github.io/posts/</link>
+    <description>Recent content in Posts on Rob Exley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 03 Apr 2021 18:46:57 +0100</lastBuildDate><atom:link href="https://robexley.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>False Start/Restart</title>
+      <link>https://robexley.github.io/posts/2021/04/03/false-start-restart/</link>
+      <pubDate>Sat, 03 Apr 2021 18:46:57 +0100</pubDate>
+      
+      <guid>https://robexley.github.io/posts/2021/04/03/false-start-restart/</guid>
+      <description>The story of a few false starts and course corrections when developing this site followed ultimately by an epiphany leading to a final restart</description>
+    </item>
+    
+  </channel>
+</rss>
