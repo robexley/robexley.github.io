@@ -7,21 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 03 Apr 2021 18:46:57 +0100</lastBuildDate><atom:link href="https://robexley.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About me</title>
+      <link>https://robexley.github.io/about/</link>
+      <pubDate>Sat, 19 Nov 2022 17:57:00 +0000</pubDate>
+      
+      <guid>https://robexley.github.io/about/</guid>
+      <description>I’m an IBM Executive Architect with over 25 years of design and delivery experience across several sectors but with a primary focus on Public Sector. Working as a lead/chief architect across large complex systems integration projects, I typically operate across the full spectrum of architecture disciplines, specialising in Solution and Application architecture for which I’m certified by IBM as a (L3) Thought Leader and by Open Group as a Distinguished Architect.</description>
+    </item>
+    
+    <item>
       <title>False Start/Restart</title>
       <link>https://robexley.github.io/posts/2021/04/03/false-start-restart/</link>
       <pubDate>Sat, 03 Apr 2021 18:46:57 +0100</pubDate>
       
       <guid>https://robexley.github.io/posts/2021/04/03/false-start-restart/</guid>
       <description>The story of a few false starts and course corrections when developing this site followed ultimately by an epiphany leading to a final restart</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://robexley.github.io/about/</link>
-      <pubDate>Wed, 24 Mar 2021 23:14:00 +0000</pubDate>
-      
-      <guid>https://robexley.github.io/about/</guid>
-      <description>I’m an IBM Architect with over 25 years of design and delivery experience across several sectors but with a primary focus on Public Sector and Financial Services. Working as a lead architect across large complex systems integration projects, I typically operate across the full spectrum of architecture disciplines but specialise in Solution and Application architecture for which I’m certified by IBM as a Senior Certified Architect (Level 3 - Thought Leader) and by the Open Group as a Level 3 Distinguished Architect.</description>
     </item>
     
     <item>
