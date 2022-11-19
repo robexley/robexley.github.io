@@ -26,7 +26,7 @@ params:
     disableThemeToggle: false
 
     ShowReadingTime: true
-    ShowShareButtons: true
+    ShowShareButtons: false
     ShowPostNavLinks: true
     disableSpecial1stPost: false
     comments: false
@@ -34,6 +34,7 @@ params:
     showtoc: false
     tocopen: false
 
+    
     assets:
         # disableHLJS: true # to disable highlight.js
         # disableFingerprinting: true
@@ -64,6 +65,8 @@ params:
         Content: Welcome to my blog
 
     socialIcons:
+        - name: mastodon
+          url: "https://mastodon.org.uk/@robexley"
         - name: twitter
           url: "https://twitter.com/robexley"
         - name: linkedin
@@ -113,15 +116,3 @@ outputs:
         - RSS
         - JSON # is necessary
 
-deployment:
-    #targets:
-    #    - name: "robexley.com"
-    #      url: "s3://robexley.com?region=eu-west-2"
-    #      cloudFrontDistributionID: "E26JK244MS22FR"
-    matchers:
-        # Cache static assets for 20 years.
-        - pattern: "^.+\\.(js|css|png|jpg|gif|svg|ttf)$"
-          cacheControl: "max-age=630720000, no-transform, public"
-          gzip: true
-        - pattern: "^.+\\.(html|xml|json)$"
-          gzip: true
